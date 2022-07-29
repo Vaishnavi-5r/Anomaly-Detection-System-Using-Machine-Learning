@@ -1,1 +1,4 @@
 # Anomaly-Detection-System-Using-Machine-Learning
+Our application can be used in surveillance at places like malls, airports, railway stations etc. where there is a risk of robbery or a shooting attack. We will be using deep learning and neural networks to train our systems. This model will then be deployed as a mobile and desktop app which will take real time CCTV footage as input and send an alert on the administrator’s device if some suspicious pose is found. 
+Anomaly detection as its name its name it is to identify the observations or rare events which can raise suspicious by being different from the rest of the observations. By machine learning approach we are going to detect anomaly activities in public places using CCTV footage. By using CNN algorithm which is the class of deep neural networks and applied to analyze visual imaginary.
+Language used is Python.
